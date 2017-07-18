@@ -1,0 +1,58 @@
+html {
+  font-family: "Nunito", sans-serif; }
+
+body {
+  margin: 0; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Oxygen", sans-serif; }
+
+code,
+pre {
+  font-family: "Oxygen Mono", monospace; }
+
+.landing__header {
+  max-width: 780px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 1.5rem;
+  padding-bottom: 1.7rem;
+  border-bottom: 2px solid black; }
+
+.landing__main {
+  max-width: 780px;
+  margin-left: auto;
+  margin-right: auto; }
+
+.landing__subtitle {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: "Oxygen", sans-serif; }
+
+.landing__title {
+  font-size: 3rem;
+  margin-top: 0;
+  margin-bottom: 0.5rem; }
+
+.post p {
+  font-size: 1.125rem;
+  line-height: 1.6; }
+
+.post__date {
+  margin-top: 0;
+  font-style: italic; }
+
+.post__title {
+  font-size: 1.8rem;
+  margin-bottom: 0.75rem; }
+  .post__title a {
+    color: #326874;
+    text-decoration: none;
+    transition: 1s color linear; }
+    .post__title a:hover {
+      color: #1b383f; }
