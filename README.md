@@ -2,6 +2,12 @@
 
 Boilerplate for standard front-end development (FED)
 
+## Getting Setup
+
+1. Copy `gulpfile.js`
+2. Run `npm init`
+3. Run `npm install browser-sync gulp gulp-sass --save-dev`
+
 ## Built With
 
 * [Gulp](http://gulpjs.com/) - Task Runner
